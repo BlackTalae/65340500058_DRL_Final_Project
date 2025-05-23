@@ -1,0 +1,85 @@
+Iteration 1: Critic Loss 2.914381 Actor Loss -0.003447 Reward -1326.20
+Iteration 2: Critic Loss 3.182906 Actor Loss 0.004382 Reward -900.07
+Iteration 3: Critic Loss 2.039285 Actor Loss -0.003883 Reward -860.03
+Iteration 4: Critic Loss 1.465730 Actor Loss -0.004471 Reward -1344.26
+Iteration 5: Critic Loss 1.063361 Actor Loss -0.002712 Reward -1685.53
+Iteration 6: Critic Loss 1.477318 Actor Loss 0.001340 Reward -1282.84
+Iteration 7: Critic Loss 1.940449 Actor Loss -0.004216 Reward -844.24
+Iteration 8: Critic Loss 1.329150 Actor Loss -0.000892 Reward -1358.35
+Iteration 9: Critic Loss 1.638522 Actor Loss 0.001231 Reward -981.69
+Iteration 10: Critic Loss 1.038236 Actor Loss -0.001076 Reward -1745.69
+Iteration 11: Critic Loss 1.165386 Actor Loss -0.000750 Reward -1599.74
+Iteration 12: Critic Loss 1.908533 Actor Loss -0.004208 Reward -894.93
+Iteration 13: Critic Loss 1.679150 Actor Loss 0.000715 Reward -1082.45
+Iteration 14: Critic Loss 1.680778 Actor Loss 0.001081 Reward -909.71
+Iteration 15: Critic Loss 1.470938 Actor Loss -0.002747 Reward -1028.09
+Iteration 16: Critic Loss 1.157908 Actor Loss 0.000564 Reward -1561.12
+Iteration 17: Critic Loss 1.056910 Actor Loss -0.000389 Reward -1686.54
+Iteration 18: Critic Loss 1.013567 Actor Loss 0.000344 Reward -1815.33
+Iteration 19: Critic Loss 1.065685 Actor Loss 0.000840 Reward -1706.58
+Iteration 20: Critic Loss 1.421179 Actor Loss 0.000058 Reward -1440.51
+Iteration 21: Critic Loss 2.046795 Actor Loss 0.001640 Reward -1081.55
+Iteration 22: Critic Loss 1.774056 Actor Loss -0.001920 Reward -906.59
+Iteration 23: Critic Loss 1.783436 Actor Loss 0.000474 Reward -1162.45
+Iteration 24: Critic Loss 1.090409 Actor Loss 0.000503 Reward -1659.09
+Iteration 25: Critic Loss 1.937721 Actor Loss -0.000893 Reward -898.29
+Iteration 26: Critic Loss 1.648793 Actor Loss 0.000183 Reward -1024.22
+Iteration 27: Critic Loss 1.764078 Actor Loss 0.000082 Reward -988.97
+Iteration 28: Critic Loss 1.171165 Actor Loss 0.000166 Reward -1602.02
+Iteration 29: Critic Loss 1.412185 Actor Loss 0.000294 Reward -1493.54
+Iteration 30: Critic Loss 1.805983 Actor Loss 0.000288 Reward -867.82
+Iteration 31: Critic Loss 1.378139 Actor Loss -0.000034 Reward -1473.95
+Iteration 32: Critic Loss 1.999563 Actor Loss 0.000428 Reward -1070.99
+Iteration 33: Critic Loss 1.873389 Actor Loss -0.000037 Reward -1068.22
+Iteration 34: Critic Loss 1.724045 Actor Loss 0.000424 Reward -943.65
+Iteration 35: Critic Loss 1.759213 Actor Loss 0.000092 Reward -931.49
+Iteration 36: Critic Loss 1.747490 Actor Loss -0.000024 Reward -1153.38
+Iteration 37: Critic Loss 1.852122 Actor Loss -0.000040 Reward -888.57
+Iteration 38: Critic Loss 1.555508 Actor Loss -0.000008 Reward -1340.64
+Iteration 39: Critic Loss 1.569746 Actor Loss -0.000683 Reward -899.37
+Iteration 40: Critic Loss 1.423569 Actor Loss 0.000119 Reward -1385.80
+Iteration 41: Critic Loss 1.852402 Actor Loss -0.000965 Reward -754.48
+Iteration 42: Critic Loss 1.625460 Actor Loss -0.000046 Reward -1249.18
+Iteration 43: Critic Loss 1.588641 Actor Loss 0.000358 Reward -962.44
+Iteration 44: Critic Loss 1.697891 Actor Loss -0.001303 Reward -880.63
+Iteration 45: Critic Loss 1.775053 Actor Loss -0.000380 Reward -760.62
+Iteration 46: Critic Loss 1.615087 Actor Loss -0.000209 Reward -1157.35
+Iteration 47: Critic Loss 1.563391 Actor Loss -0.000091 Reward -1159.37
+Iteration 48: Critic Loss 1.405028 Actor Loss -0.000550 Reward -898.26
+Iteration 49: Critic Loss 1.371651 Actor Loss -0.000082 Reward -1392.69
+Iteration 50: Critic Loss 1.509883 Actor Loss -0.000076 Reward -1256.97
+Iteration 51: Critic Loss 1.028327 Actor Loss 0.000038 Reward -1760.87
+Iteration 52: Critic Loss 1.489350 Actor Loss 0.000330 Reward -1002.88
+Iteration 53: Critic Loss 1.580842 Actor Loss -0.000131 Reward -1260.94
+Iteration 54: Critic Loss 1.594065 Actor Loss -0.000377 Reward -974.28
+Iteration 55: Critic Loss 1.544347 Actor Loss -0.000732 Reward -870.85
+Iteration 56: Critic Loss 1.134366 Actor Loss 0.000286 Reward -1562.17
+Iteration 57: Critic Loss 1.617945 Actor Loss -0.000183 Reward -890.00
+Iteration 58: Critic Loss 1.486721 Actor Loss -0.000331 Reward -896.99
+Iteration 59: Critic Loss 1.534359 Actor Loss -0.000273 Reward -1028.96
+Iteration 60: Critic Loss 1.469570 Actor Loss -0.000080 Reward -1366.28
+Iteration 61: Critic Loss 1.633281 Actor Loss 0.000341 Reward -878.49
+Iteration 62: Critic Loss 1.458574 Actor Loss 0.000139 Reward -1346.29
+Iteration 63: Critic Loss 1.037136 Actor Loss 0.000329 Reward -1738.54
+Iteration 64: Critic Loss 1.409982 Actor Loss -0.000036 Reward -1368.91
+Iteration 65: Critic Loss 1.555016 Actor Loss -0.000491 Reward -1001.18
+Iteration 66: Critic Loss 1.050436 Actor Loss -0.000023 Reward -1718.22
+Iteration 67: Critic Loss 1.685347 Actor Loss 0.000126 Reward -967.76
+Iteration 68: Critic Loss 1.636317 Actor Loss -0.000557 Reward -906.48
+Iteration 69: Critic Loss 1.350144 Actor Loss -0.000167 Reward -1425.81
+Traceback (most recent call last):
+  File "/home/talae/DRL_NewProject/train_cartpole.py", line 56, in <module>
+    rollout = agent.collect_trajectory(env, num_steps)
+  File "/home/talae/DRL_NewProject/PPO.py", line 266, in collect_trajectory
+    frame = env.render()  # ได้ภาพแบบ RGB array
+  File "/home/talae/miniconda3/envs/gymnasium/lib/python3.10/site-packages/gymnasium/core.py", line 332, in render
+    return self.env.render()
+  File "/home/talae/miniconda3/envs/gymnasium/lib/python3.10/site-packages/gymnasium/wrappers/common.py", line 409, in render
+    return super().render()
+  File "/home/talae/miniconda3/envs/gymnasium/lib/python3.10/site-packages/gymnasium/core.py", line 332, in render
+    return self.env.render()
+  File "/home/talae/miniconda3/envs/gymnasium/lib/python3.10/site-packages/gymnasium/wrappers/common.py", line 303, in render
+    return self.env.render()
+  File "/home/talae/miniconda3/envs/gymnasium/lib/python3.10/site-packages/gymnasium/envs/classic_control/pendulum.py", line 251, in render
+    self.surf.blit(
+KeyboardInterrupt
